@@ -8,6 +8,8 @@ public class TestGit
 		System.out.println("Change in Github");
 		System.out.println("Change in Github");
 		System.out.println("Pull from devbranch to master");
+				System.out.println("Pull from devbranch to master");
+
 	}
 
 }
