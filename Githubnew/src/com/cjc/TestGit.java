@@ -6,6 +6,7 @@ public class TestGit
 	{
 		System.out.println("Hello Git new changes update changes");
 		System.out.println("Change in Github");
+		System.out.println("Change in Github");
 	}
 
 }
